@@ -1,0 +1,40 @@
+{
+  "weather": [
+    {
+      "id": 1,
+      "picture": "https://aperchak-template.s3.eu-central-1.amazonaws.com/templates_with_JS/exam_task_pictures/cloth1.png",
+      "name": "Дощовик прозорий Warning",
+      "price": "800"
+    },
+    {
+        "id": 2,
+        "picture": "https://aperchak-template.s3.eu-central-1.amazonaws.com/templates_with_JS/exam_task_pictures/cloth2.png",
+        "name": "Дощовик прозорий Warning",
+        "price": "800"
+      },
+      {
+        "id": 3,
+        "picture": "https://aperchak-template.s3.eu-central-1.amazonaws.com/templates_with_JS/exam_task_pictures/cloth3.png",
+        "name": "Дощовик прозорий Warning",
+        "price": "800"
+      },
+      {
+        "id": 4,
+        "picture": "https://aperchak-template.s3.eu-central-1.amazonaws.com/templates_with_JS/exam_task_pictures/cloth4.png",
+        "name": "Дощовик прозорий Warning",
+        "price": "800"
+      },
+      {
+        "id": 5,
+        "picture": "https://aperchak-template.s3.eu-central-1.amazonaws.com/templates_with_JS/exam_task_pictures/cloth5.png",
+        "name": "Дощовик прозорий Warning",
+        "price": "800"
+      },
+      {
+        "id": 6,
+        "picture": "https://aperchak-template.s3.eu-central-1.amazonaws.com/templates_with_JS/exam_task_pictures/cloth6.png",
+        "name": "Дощовик прозорий Warning",
+        "price": "800"
+      }
+  ]
+}
